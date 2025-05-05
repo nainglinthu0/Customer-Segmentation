@@ -1,17 +1,4 @@
-# Web framework
-flask==2.2.3
-streamlit==1.25.0
-
-# Data manipulation
+streamlit==1.18.1
+scikit-learn==1.2.2
 numpy==1.24.2
 pandas==1.5.3
-
-# Machine learning
-scikit-learn==1.2.2
-
-# Plotting (optional, if you use visualizations)
-matplotlib==3.7.1
-seaborn==0.12.2
-
-# Deployment and environment
-gunicorn==20.1.0
